@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "createb:andesite_casing",
+      "menu_category": {
+        "category": "construction"
+      },
+      "states": {
+        "createb:powered": [false, true]
+      }
+    },
+    "components": {
+      "minecraft:destroy_time": 2,
+      "minecraft:explosion_resistance": 6,
+      "minecraft:friction": 0.6,
+      "minecraft:light_dampening": 15,
+      "minecraft:map_color": "#8F8F8F",
+      "minecraft:loot": "loot_tables/blocks/andesite_casing.json"
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('createb:powered') == true",
+        "components": {
+          "minecraft:map_color": "#C28E2B"
+        }
+      }
+    ]
+  }
+}

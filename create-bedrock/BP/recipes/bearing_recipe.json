@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "createb:bearing_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": ["III", "IRI", "III"],
+    "key": {
+      "I": { "item": "minecraft:iron_nugget" },
+      "R": { "item": "minecraft:redstone" }
+    },
+    "result": { "item": "createb:bearing", "count": 1 }
+  }
+}

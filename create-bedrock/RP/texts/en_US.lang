@@ -1,0 +1,17 @@
+item.createb:andesite_casing.name=Andesite Casing
+item.createb:cogwheel.name=Cogwheel
+item.createb:shaft.name=Shaft
+item.createb:gearbox.name=Gearbox
+item.createb:propeller.name=Propeller
+item.createb:bearing.name=Bearing
+item.createb:balloon_fabric.name=Balloon Fabric
+item.createb:wrench.name=Wrench
+item.createb:wind_bearing.name=Wind Bearing
+item.createb:propeller_controller.name=Propeller Controller
+item.createb:ballast_tank.name=Ballast Tank
+tile.createb:andesite_casing.name=Andesite Casing
+tile.createb:wind_bearing.name=Wind Bearing
+tile.createb:propeller_controller.name=Propeller Controller
+tile.createb:ballast_tank.name=Ballast Tank
+pack.name=Create Bedrock Prototype
+pack.description=Create-style mechanical prototype for Bedrock Edition

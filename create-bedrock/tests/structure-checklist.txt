@@ -1,0 +1,13 @@
+Behavior Pack
+- manifest.json
+- blocks/
+- items/
+- recipes/
+- scripts/
+- functions/
+
+Resource Pack
+- manifest.json
+- texts/
+- textures/
+- models/

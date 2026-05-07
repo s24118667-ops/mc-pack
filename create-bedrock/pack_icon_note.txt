@@ -1,0 +1,1 @@
+Add 256x256 PNG files named pack_icon.png in BP/ and RP/ before packaging for distribution.

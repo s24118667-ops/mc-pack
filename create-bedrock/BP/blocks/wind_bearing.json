@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "createb:wind_bearing",
+      "menu_category": { "category": "construction" }
+    },
+    "components": {
+      "minecraft:destroy_time": 3,
+      "minecraft:explosion_resistance": 8,
+      "minecraft:map_color": "#7A7A7A",
+      "minecraft:loot": "loot_tables/blocks/wind_bearing.json"
+    }
+  }
+}

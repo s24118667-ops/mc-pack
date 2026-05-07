@@ -1,0 +1,14 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "createb:wind_bearing_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [" I ", "BAB", " I "],
+    "key": {
+      "I": { "item": "minecraft:iron_ingot" },
+      "B": { "item": "createb:bearing" },
+      "A": { "item": "createb:andesite_casing" }
+    },
+    "result": { "item": "createb:wind_bearing", "count": 1 }
+  }
+}
