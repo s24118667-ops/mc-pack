@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "createb:propeller_controller_recipe" },
+    "tags": ["crafting_table"],
+    "pattern": [" R ", "PAP", " C "],
+    "key": {
+      "R": { "item": "minecraft:redstone" },
+      "P": { "item": "createb:propeller" },
+      "A": { "item": "createb:andesite_casing" },
+      "C": { "item": "createb:cogwheel" }
+    },
+    "result": { "item": "createb:propeller_controller", "count": 1 }
+  }
+}

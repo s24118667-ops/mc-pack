@@ -1,0 +1,17 @@
+{
+  "resource_pack_name": "createb_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "createb_cogwheel": { "textures": "textures/items/stick" },
+    "createb_andesite_casing": { "textures": "textures/items/cobblestone" },
+    "createb_shaft": { "textures": "textures/items/blaze_rod" },
+    "createb_gearbox": { "textures": "textures/items/dropper" },
+    "createb_propeller": { "textures": "textures/items/feather" },
+    "createb_bearing": { "textures": "textures/items/iron_nugget" },
+    "createb_balloon_fabric": { "textures": "textures/items/wool" },
+    "createb_wrench": { "textures": "textures/items/iron_pickaxe" },
+    "createb_wind_bearing": { "textures": "textures/items/compass_item" },
+    "createb_propeller_controller": { "textures": "textures/items/repeater" },
+    "createb_ballast_tank": { "textures": "textures/items/bucket_water" }
+  }
+}

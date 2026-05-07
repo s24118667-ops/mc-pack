@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "createb_rp",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "createb_andesite_casing": {
+      "textures": "textures/blocks/stone"
+    }
+  }
+}
